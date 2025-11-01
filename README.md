@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bontivero
 - 👀 I’m interested in web Programming, Android Aplications, Desktop and Web Aplicatons.
-- 🌱 I’m currently learning Python with django.
+- 🌱 I’m alredy learned Python with django. I'm currently learning about Odoo development.
 - I studied in la UCI. I specialized in android application development and now i want to expand my knowledge in web development with python.
 
 <!---
