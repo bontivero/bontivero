@@ -39,6 +39,7 @@ Ingeniera en Ciencias Informáticas con **8 años de experiencia** en desarrollo
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/XML-767C7D?style=for-the-badge&logo=xml&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
 </p>
 
 #### Frameworks & Librerías
@@ -49,6 +50,8 @@ Ingeniera en Ciencias Informáticas con **8 años de experiencia** en desarrollo
   <img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
   <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
 </p>
 
 #### Bases de Datos
@@ -56,10 +59,18 @@ Ingeniera en Ciencias Informáticas con **8 años de experiencia** en desarrollo
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge&logo=uvicorn&logoColor=white" />
+</p>
+
+#### Testing & CI/CD
+<p>
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
 #### Herramientas & DevOps
 <p>
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -130,6 +141,7 @@ Ingeniera en Ciencias Informáticas con **8 años de experiencia** en desarrollo
 
 | Curso | Institución | Año |
 |-------|-------------|-----|
+| **Nivel 3: Metodologías Ágiles** | FUNDAE (España) | 2026 |
 | **Nivel 3: Sistemas Gestores de Bases de Datos** | FUNDAE (España) | 2026 |
 | **Creación de Sitios Web con Django** | DESOFT | 2022 |
 | **Programación en Python Básico** | DESOFT | 2021 |
@@ -155,7 +167,7 @@ Ingeniera en Ciencias Informáticas con **8 años de experiencia** en desarrollo
 ### 🌐 Idiomas
 
 - **Español**: Nativo
-- **Inglés**: Nivel alto (C1)
+- **Inglés**: Nivel alto (B2)
 
 ---
 
