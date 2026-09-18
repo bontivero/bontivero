@@ -2,6 +2,18 @@
 <h3 align="center">Ingeniera / Desarrolladora Full Stack & Data Engineer</h3>
 
 <p align="center">
+  <a href="https://bontivero.github.io/my_portafolio_angular/">
+    <img src="https://img.shields.io/badge/🌐_Ver_Portfolio-000000?style=for-the-badge" />
+  </a>
+  <a href="https://my-portafolio-angular.web.app/">
+    <img src="https://img.shields.io/badge/🔥_Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  </a>
+  <a href="https://github.com/bontivero/my_portafolio_angular">
+    <img src="https://img.shields.io/badge/📦_Código_Fuente-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -174,6 +186,9 @@ Ingeniera en Ciencias Informáticas con **8 años de experiencia** en desarrollo
 ### 📬 Contacto
 
 <p>
+  <a href="https://bontivero.github.io/my_portafolio_angular/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=angular&logoColor=DD0031" />
+  </a>
   <a href="mailto:beatrizontivero@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
